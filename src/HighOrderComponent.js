@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {Button, Text, View} from 'react-native';
+import {Button, Text, View, TouchableHighlight} from 'react-native';
 
 const HighOrderComponent = () => {
   return (
