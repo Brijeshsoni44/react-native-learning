@@ -75,6 +75,8 @@ function Counter() {
   }
   return (
     <View style={{flex: 1,}}>
+
+      
       <Text style={{fontSize: 40, color: 'white', textAlign: 'center',}}>
         {count}
       </Text>
